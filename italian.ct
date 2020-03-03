@@ -1,4 +1,4 @@
-## version $VER: Zune.catalog 0.2 (23.12.2019)
+## version $VER: Zune.catalog 0.1 (22.02.2006)
 ## language italiano
 ## codeset 0
 ;
@@ -105,7 +105,7 @@ Nuovo :
 ; Level:
 ;
 MSG_SPEED
-VelocitÃ  :
+Velocità :
 ; Speed:
 ;
 MSG_POPUP_MENU_DESIGN
@@ -176,8 +176,8 @@ Registro
 ; Register
 ;
 MSG_DEFAULT_SIZE_TRUNCATE_TITLES
-Troncare i titoli
-; Default size truncate titles
+Troncare i titoli:
+; Default size truncate titles:
 ;
 MSG_NORMAL
 Normale
@@ -458,11 +458,11 @@ Freccia su
 ; Arrow up
 ;
 MSG_ARROW_DOWN
-Freccia giÃ¹
+Freccia giù
 ; Arrow down
 ;
 MSG_DOWN
-giÃ¹
+giù
 ; down
 ;
 MSG_LEFT
