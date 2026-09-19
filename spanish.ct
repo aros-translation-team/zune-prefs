@@ -443,7 +443,7 @@ nuevo aspecto
 ; newlook
 ;
 MSG_CUSTOM
-;custom
+personalizado
 ; custom
 ;
 MSG_ARROWS
@@ -510,7 +510,7 @@ Diseño del contenedor
 ; Container Design
 ;
 MSG_KNOB_DESIGN
-;Knob Design
+Diseño del Knob
 ; Knob Design
 ;
 MSG_EXAMPLE_SLIDERS
